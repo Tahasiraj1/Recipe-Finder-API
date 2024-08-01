@@ -1,7 +1,7 @@
 import axios from "axios";
 import { Recipe } from "./Recipe.js";
 
-const API_KEY = "defd0840b07044e6a5d9b9c5cac36082";
+const API_KEY = "Your API Key";
 const BASE_URL = "https://api.spoonacular.com/recipes";
 
 export class RecipeService {
